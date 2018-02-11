@@ -1,3 +1,6 @@
+% Stand alone:
+% File: estimates the range the uwb radar can spot based on power used to send out signal.
+
 lambda = 0.06972; RNG = 0:25; Pt = 0.00354834; 
     tau = 1e-9; RCS = 0.0729; G = 1;  
     pt = 0.00354834;
